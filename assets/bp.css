@@ -1,0 +1,22 @@
+h1.h3,
+h2.h3 {
+    font-size: 1.3em;
+}
+
+.reveal dt {
+    margin-left:0;
+    font-style: italic;
+    text-align: left !important;
+}
+
+.reveal dd {
+    text-indent: 1em;
+    text-align: left !important;
+}
+
+/*.reveal img,*/
+.reveal iframe,
+.reveal video {
+    margin: 15px 0;
+    border: 4px solid #fff;
+}
